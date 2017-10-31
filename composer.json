@@ -1,0 +1,10 @@
+{
+    "name": "exfriend/curl-tutorial",
+    "type": "composer-plugin",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {
+        "coderockr/php-query": "dev-master",
+        "curl/curl": "dev-master"
+    }
+}
